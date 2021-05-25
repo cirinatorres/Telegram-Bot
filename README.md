@@ -48,4 +48,4 @@ To know my creator.
     Where Lixbun is Lisbon, Portugal and culugne is Cologne, Deutschland
     That's right, I can sense which city you meant. But... only if you put the country code correctly
 
-![Execution](/Users/torrescirina/Downloads/Python Project/daniel.torres/Execution.PNG)
+![Execution](Execution.PNG)
