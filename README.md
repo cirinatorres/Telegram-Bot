@@ -1,5 +1,8 @@
 Daniel Torres
 
+The course gave an overview of programming languages (Haskell, Python 3, Tcl, Ruby, ...), as well as a brief introduction to compilers. It also presented in more detail functional languages and its use to introduce new elements of programming languages, such as type systems or higher-order programming. It showed how these languages can be used to specify and model hardware and software or, for instance, in financial applications. Finally, scripting languages were considered for its increasingly use in both the prototyping and the development of applications. As a general aim, the course worked the ability to learn new languages.
+
+
 $ python3 telegram_bot.py
 Executes the bot and allows it to communicate trough Telegram.
 
