@@ -9,8 +9,9 @@ In case Telegram isn't available to test there is commands.py with everything
 necessary to execute each functionality.
 
 Here are all the commands that you can execute:
-*/start
-Initializes the bot
+
+* /start
+  Initializes the bot
 
 * /author
 To know my creator.
