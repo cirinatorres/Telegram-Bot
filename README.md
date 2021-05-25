@@ -8,4 +8,4 @@ bot address: t.me/MapsLP2019Bot
 In case Telegram isn't available to test there is commands.py with everything 
 necessary to execute each functionality.
 
-![Execution](/Users/torrescirina/Downloads/Python Project/daniel.torres/Execution.PNG)
+![Execution](Execution.PNG)
